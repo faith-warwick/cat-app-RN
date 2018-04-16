@@ -1,0 +1,7 @@
+{
+  "name": "cat-app",
+  "displayName": "cat-app",
+  "expo": {
+    "sdkVersion": "26.0.0"
+  }
+}
